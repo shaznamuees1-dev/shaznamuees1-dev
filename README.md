@@ -59,13 +59,11 @@ Building scalable applications with Java, .NET, Spring Boot, Docker, Kubernetes 
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Activity Graph
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shaznamuees1-dev&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaznamuees1-dev&layout=compact&theme=github_dark&hide_border=true"/>
+[![Shazna's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaznamuees1-dev&theme=github-dark&hide_border=true)](https://github.com/shaznamuees1-dev)
 
 </p>
 
