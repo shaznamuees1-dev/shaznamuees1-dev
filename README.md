@@ -112,23 +112,15 @@ Infrastructure as Code using
 
 ---
 
-### 🔐 Secure Identity Integration
+### 🔐 Secure Authentication System
 
-Spring Boot + WSO2 Asgardeo + OAuth2/OIDC
+Built a Spring Boot application implementing secure authentication using OAuth2/OIDC, including token-based login and role-based access control (RBAC).
 
 ---
 
 ### ❤️ Heart Attack Prediction
 
 Machine Learning pipeline using Python & Scikit-Learn
-
----
-
-# 📖 Latest Article
-
-📝 Adding Login to a Spring Boot App with WSO2 Asgardeo
-
-https://medium.com/javarevisited/adding-login-to-a-spring-boot-app-with-wso2-asgardeo-step-by-step-61dca55aeb63
 
 ---
 
