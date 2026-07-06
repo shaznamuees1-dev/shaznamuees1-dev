@@ -59,26 +59,6 @@ Building scalable applications with Java, .NET, Spring Boot, Docker, Kubernetes 
 
 ---
 
-# 📈 GitHub Activity Graph
-
-<p align="center">
-
-[![Shazna's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaznamuees1-dev&theme=github-dark&hide_border=true)](https://github.com/shaznamuees1-dev)
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=shaznamuees1-dev&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
 # ⭐ Featured Projects
 
 ### 🏢 Enterprise Order Management System
