@@ -114,9 +114,13 @@ shazna.muees1@gmail.com
 
 https://linkedin.com/in/shaznamuees
 
-🌐 **GitHub**
+🐙 **GitHub**
 
 https://github.com/shaznamuees1-dev
+
+✨ **Portfolio**
+
+https://shaznamuees-portfolio.lovable.app
 
 ---
 
